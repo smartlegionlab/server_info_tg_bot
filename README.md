@@ -59,7 +59,7 @@ Exemple `config.json`:
 
 
 **Description:**
-The Bash version of Telegram SSH Notifier performs the same functions as the Python application,
+The Bash version of Server Info Telegram Bot performs the same functions as the Python application,
 but is written as a Bash script. This script allows you to send notifications to Telegram,
 including the user login, local IP address, and the generated command for connecting via SSH.
 All parameters are also configured through the configuration file.
