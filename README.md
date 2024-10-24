@@ -30,7 +30,7 @@ which many people sometimes use as a test server or a server for hosting telegra
 - Clone the repository. 
 - Create a `config.json` file in your project folder.
 
-Exemple `config.json`:
+Example `config.json`:
 ```json
 {
     "token": "your telegram token",
@@ -78,7 +78,7 @@ All parameters are also configured through the configuration file.
 - Clone the repository. 
 - Create a `config.ini` file in your project folder.
 
-Exemple `config.ini`:
+Example `config.ini`:
 ```ini
 # Token for the Telegram bot
 token=your telegram token
